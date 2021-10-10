@@ -16,3 +16,10 @@ let student = "Visitor of this site";
 
 // =====3==========
 
+/* let Name = "Ilya";
+alert(`hello ${1}`);
+alert(`hello ${"name"}`);
+alert(`hello ${name}`); */
+
+// =====4===========
+
